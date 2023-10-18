@@ -3,32 +3,32 @@
   overflow: hidden;
 }
 
-#nav-bar-container {
-  float:left;
+#navbar-container { 
+  float: left;
   width: 100%;
-  position:relative;
+  position: relative;
 }
 
 #main-navbar ul {
-  list-style-type:none;
-  margin:0;
+  list-style-type: none;
+  margin: 0;
   padding: 0;
   position: relative;
   left: 50%;
-  float:left;  
+  float: left;  
 }
 
 #main-navbar ul li {
-  float:left;
+  float: left;
   position: relative;
   right: 50%;
   display: block;
 }
 
 #main-navbar ul li a {
-  display:block;
+  display: block;
   padding: 10px 20px;
-  color:#fff;
+  color: #fff;
   text-decoration: none;
 }
 
@@ -56,7 +56,7 @@
 
 #sidebar ul li a {
   display: block;
-  padding:15px 0;
+  padding: 15px 0;
   color: #fff;
   text-decoration: none;
 }
